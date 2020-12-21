@@ -21,4 +21,4 @@ in the terminal. Then all you have to do is type
 ```
 ./helloworld
 ```
-to run it.
+to run it. **Alternative: You can use the Makefile provided to build the project. Just type make in the terminal and make will do the rest.**
